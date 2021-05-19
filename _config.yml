@@ -2,6 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
+title: Test title
+description:  Test description
+
 # Name of your site (displayed in the header)
 name: lbk_blog.github.io
 
